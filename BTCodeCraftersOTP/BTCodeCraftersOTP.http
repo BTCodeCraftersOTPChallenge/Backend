@@ -1,0 +1,7 @@
+@BTCodeCraftersOTP_HostAddress = https://localhost:7245
+
+
+GET {{BTCodeCraftersOTP_HostAddress}}/otpmanager/generateOTP
+Accept: application/json
+
+###

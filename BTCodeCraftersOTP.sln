@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BTCodeCraftersOTP", "BTCodeCraftersOTP\BTCodeCraftersOTP.csproj", "{5BB90743-B83A-4178-A870-673F3351F5DA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BTCodeCrafters.Tests", "BTCodeCrafters.Tests\BTCodeCrafters.Tests.csproj", "{4F3C95FF-F1DC-4F3E-A4BB-8CFAD2C9E03A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5BB90743-B83A-4178-A870-673F3351F5DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5BB90743-B83A-4178-A870-673F3351F5DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5BB90743-B83A-4178-A870-673F3351F5DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5BB90743-B83A-4178-A870-673F3351F5DA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4F3C95FF-F1DC-4F3E-A4BB-8CFAD2C9E03A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F3C95FF-F1DC-4F3E-A4BB-8CFAD2C9E03A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F3C95FF-F1DC-4F3E-A4BB-8CFAD2C9E03A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F3C95FF-F1DC-4F3E-A4BB-8CFAD2C9E03A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {852EEB86-40AB-429F-9D7F-74155D21F7D4}
+	EndGlobalSection
+EndGlobal
